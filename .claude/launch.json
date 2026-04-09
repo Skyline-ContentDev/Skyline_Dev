@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "flipbook",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": ["http-server", "td-synnex/TDS_Rev_CS", "-p", "8091", "-c-1"],
+      "port": 8091
+    }
+  ]
+}
